@@ -1,0 +1,342 @@
+CLIENT_ID,PROCEDURE_TYPE,REFERRED_BY
+1,Microblading,Daughter
+2,Microblading,Gemma
+3,Microblading,Rachelle
+4,Microblading,"Tawnee West"
+5,Microblading,"Debra Casteneda"
+6,Microblading,"Julie Counter"
+7,Microblading,"Cathy Howe"
+8,Microblading,"Ashley Howe"
+9,Microblading,"Lisa T"
+10,Microblading,Taylor
+11,Microblading,"Instagram microshading"
+12,Microblading,"Andrea Rose"
+13,Microblading,"Margarita Castillo"
+14,Microblading,"Temecula Talk"
+15,Microblading,Facebook
+16,Microblading,"Facebook Recommendations"
+17,"Combo Brows","Tammie B/Instagram"
+18,Microblading,Facebook
+19,Microblading,Instagram/Facebook
+20,Microblading,Melissa
+21,Microblading,"Taylor Leduff"
+22,Microblading,"Social Media"
+23,Microblading,Friends
+24,Microblading,Facebook
+25,"Ombre Brows",Facebook
+26,"Ombre Brows","Aunt Evett"
+27,Microblading,Friend
+28,Microblading,Facebook
+29,Microblading,Friend
+30,Microblading,"Cecila Mccoy"
+31,Microblading,"Instagram/Clare Bear"
+32,Microblading,"          "
+33,Microblading,Facebook
+34,Microblading,Stephanie
+35,Microblading,"Vanessa Gibson"
+36,"Combo Brows",Facebook
+37,"Ombre Brows",Friend
+38,Microblading,Vanessa
+39,"Powder Shading","Lesly Burris"
+40,Microblading,Employee
+41,Microblading,Friend
+42,Microblading,Yvette
+43,"Combo Brows","Lisa Toscano"
+44,Microblading,"Andree Vick"
+45,Microblading,Relative
+46,"Combo Brows","Corryn Viega"
+47,Microblading,Friend
+48,"Combo Brows",Family
+49,"Combo Brows","Alena Torres"
+50,Microblading,Facebook
+51,Microblading,Friend
+52,"Combo Brows",Facebook
+53,Microblading,Facebook
+54,Microblading,"Dawn Olsen"
+55,"Combo Brows","Courtney taglieri"
+56,"Combo Brows","Temecula Talk"
+57,Microblading,Instagram
+58,Microblading,Mom
+59,Microblading,Facebook
+60,Microblading,Instagram
+61,Microblading,Facebook
+62,Microblading,"Boozin Babes"
+63,"             ","         "
+64,Microblading,"Temecula Talk"
+65,Microblading,Instagram
+66,Microblading,Facebook
+67,Microblading,Facebook/Instagram
+68,Microblading,Instagram
+69,"Ombre Brows","Lash Referral Ivy"
+70,Microblading,Rebecca
+71,"Combo Brows",Yvette
+72,"Micro Shading","Kayla Flores"
+73,Microblading,Friend
+74,Microblading,"    "
+75,Microblading,Friend
+76,Microblading,"Temecula Talk"
+77,Microblading,Friend
+78,Microblading,Instsagram
+79,Microblading,"Starre Ross"
+80,Microblading,"Joan Klausman"
+81,"            ","           "
+82,Microblading,"Alicia Leduff"
+83,Microblading,"Vanesa Gibson"
+84,Microblading,"Alyssa Fleming"
+85,Microblading,Facebook
+86,"           ","        "
+87,"            ",Friend
+88,"Combo Brows","Lianne Steal"
+89,Microblading,Yvette
+90,"            ",Facebook
+91,Microblading,Jodi
+92,Microblading,Facebook
+93,"           ","Alyssa Fleming"
+94,Microblading,Son
+95,Microblading,"Amy w"
+96,Microblading,Friend
+97,Microblading,Instagram
+98,Microblading,"Whats up lake elsinore"
+99,"Combo Brows","Alena Torres"
+100,Microblading,"Alena Torres"
+101,Microblading,"Karla Ballir"
+102,Microblading,Instagram
+103,"            ","Yvette Contreras"
+104,Microblading,Facebook
+105,"            ","         "
+106,Microblading,"Son in law"
+107,Microblading,"Temecula Talk"
+108,"           ","Amy Westland"
+109,"            ",Facebook/Instagram
+110,Microblading,Friend
+111,Microblading,Friend
+112,Microblading,Instagram
+113,Microblading,Facebook
+114,Microblading,Joann
+115,Microblading,Instagram
+116,Microblading,Friend
+117,Microblading,"Melissa Contreras"
+118,Touch-up,"Vanessa Gibson"
+119,"Ombre Brows",Friend
+120,Microblading,Instagram
+121,Microblading,"Monica Suarez"
+122,Microblading,"Danielle Box"
+123,Microblading,"Joey T"
+124,"           ","Bernadette Sanicola"
+125,Microblading,"Nicole Karrer"
+126,Microblading,"Violette Ferguson"
+127,Microblading,Daughter
+128,Microblading,Lisa
+129,Microblading,Friend
+130,"Combo Brows",Ashley
+131,Microblading,Sister
+132,Microblading,Sister
+133,"            ","      "
+134,Microblading,Instagram
+135,Microblading,Facebook
+136,Microblading,Instagram
+137,Microblading,Instagram
+138,Microblading,Friend
+139,Microblading," Instagram"
+140,Microblading,Liz
+141,Microblading,Family
+142,Microblading,"Margarita Lash"
+143,Microblading,Facebook
+144,Microblading,Google
+145,Microblading,Facebook
+146,"           ",Kristen
+147,Microblading,"       "
+148,Microblading,Margarita
+149,Microblading,Friend
+150,Microblading,"Arian Kemp"
+151,Microblading,"Alyssa Fleming"
+152,"Combo Brows","Kelsey Biggers"
+153,Microblading,Facebook
+154,Microblading,Rebecca
+155,"            ",Facebook
+156,Microblading,Instagram
+157,Microblading,"Chance Burgess"
+158,Microblading,"Kayla Labeda"
+159,Microblading,Instagram
+160,"Powder Shading",Friend
+161,Microblading,"Leah Dreany"
+162,Microblading,Friend
+163,"           ",Facebook
+164,Microblading,Online
+165,Microblading,"       "
+166,Microblading,Facebook
+167,Microblading,Facebook
+168,Microblading,"Alma Cox"
+169,Microblading,"         "
+170,Microblading,"Monica Suarez"
+171,Microblading,Neighbor
+172,Microblading,Facebook
+173,"Powder Shading",Coworkers
+174,"             ","         "
+175,Microblading,Instagram
+176,Microblading,Friend
+177,"          ",Sister
+178,Microblading,Instagram
+179,Microblading,"Saw Trailer"
+180,Microblading,"          "
+181,Microblading,"Monica Gonzalez"
+182,Microblading,Rachelle
+183,"            ","        "
+184,Microblading,Facebook
+185,"Combo Brows",Instagram
+186,Microblading,Friend
+187,Microblading,"      "
+188,Microblading,"Christina Jaques"
+189,"            ",Instagram
+190,Microblading,No
+191,Microblading,"Vernocia Cardova"
+192,Microblading,"           "
+193,Microblading,Instagram
+194,Microblading,"Donna Skinner"
+195,Microblading,"Starre Ross"
+196,Microblading,Instagram
+197,"Combo Brows",Instagram
+198,Microblading,Carleen
+199,"Combo Brows",Neighbor
+200,Microblading,Instagram
+201,Microblading,"          "
+202,Microblading,Facebook
+203,Microblading,Daughter
+204,None,Facebook
+205,"Combo Brows",Facebook
+206,Microblading,Facebook
+207,"Combo Brows",Leduffs
+208,Microblading,Facebook
+209,Microblading,Friend
+210,Microblading,Daughter
+211,"            ","Taylor Leduff"
+212,Microblading,"Jamie Visuwan"
+213,Microblading,Instagram
+214,"Scalp Repigmentation",Taylor
+215,Microblading,Taylor
+216,Microblading,Facebook/Instagram
+217,Microblading,Facebook
+218,Microblading,"Cynthia Reyna"
+219,Microblading,Daughter
+220,Microblading,"Laurie Burns"
+221,Microblading,Facebook
+222,Microblading,"Amanda Sanchez"
+223,Microblading,"          "
+224,Microblading,"Margarita Lash"
+225,Correction,"Word of Mouth"
+226,Microblading,"Hayley Leduff"
+227,Microblading,Rachelle
+228,Microblading,Facebook
+229,Microblading,"        "
+230,Microblading,Instagram
+231,Microblading,Facebook
+232,Microblading,Coworker
+233,"Combo Brows","Saw Trailer"
+234,Microblading,"Patty Cantarini"
+235,Microblading,"Cecelia Mccay"
+236,Microblading,Yvette
+237,Microblading,Friend
+238,"            ","       "
+239,Microblading,"Word of Mouth"
+240,Microblading,Violette
+241,"           ",Barbara
+242,Microblading,Claire
+243,Microblading,"Saw Trailer"
+244,"            ","            "
+245,Microblading,"Laurie Enriquez"
+246,Microblading,Facebook
+247,Microblading,Instagram
+248,Microblading,"         "
+249,Microblading,Facebook
+250,"Scalp Repigmentation","Laurie Burns"
+251,Microblading,Daughter
+252,Microblading,"Lindsay Galen"
+253,Microblading,Friend
+254,Microblading,"Cathy Howe"
+255,Microblading,Violet
+256,Microblading,"Temecula Talk"
+257,Microblading,Selma
+258,Microblading,Friend
+259,"             ","     "
+260,Microblading,Coworker
+261,Microblading,Instagram
+262,Microblading,Mom
+263,Microblading,Facebook
+264,Microblading,Gemma
+265,"Combo Brows","Margarita Lash"
+266,Microblading,Facebook/Instagram
+267,Microblading,"            "
+268,Microblading,Facebook
+269,"Combo Brows","Erica Mercer"
+270,Microblading,Facebook
+271,Microblading,Facebook
+272,Microblading,Friend
+273,"Scalp Repigmentation","Heidi Hunter"
+274,Microblading,Daughter
+275,Microblading,"Vanessa Gibson"
+276,Microblading,Facebook
+277,Microblading,Family
+278,"Combo Brows",Facebook/Instagram
+279,Microblading,Sister
+280,"Combo Brows",Friend
+281,"Combo Brows",Coworkers
+282,"            ","        "
+283,Microblading,Instagram
+284,Microblading,"Margarita Lash"
+285,Microblading,Coworker
+286,Microblading,Friend
+287,Microblading,Friend
+288,Microblading,Instagram
+289,Microblading,Instagram
+290,Microblading,"Hunter Family"
+291,Microblading,Facebook/Instagram
+292,"            ","Irene Ortega"
+293,"Nano Brows",Facebook
+294,Microblading,Facebook
+295,Microblading,"Shyanna Urick"
+296,Microblading,Sister
+297,Microblading,Family
+298,Microblading,Friend
+299,"Combo Brows",Instagram
+300,Microblading,Instagram
+301,Microblading,Instagram
+302,Microblading,"Elizabeth Perez"
+303,Microblading,"Temecula Talk"
+304,Microblading,Facebook
+305,Microblading,Friend
+306,Microblading,Gemma
+307,Microblading,Friend
+308,Microblading,"Jessie Lopez"
+309,Microblading,Daughter
+310,Microblading,"Taylor Leduff"
+311,"Combo Brows","Ashley Howe"
+312,Microblading,Vanessa
+313,"            ",Coworker
+314,Microblading,"Dana Silverthorne"
+315,Microblading,Friend
+316,Microblading,Family
+317,Microblading,"Margarita Lash"
+318,Microblading,Facebook
+319,Microblading,Coworker
+320,Microblading,Friend
+321,"Nano Brows",Facebook
+322,Microblading,Vanessa
+323,Microblading,"Kelsy Biggers"
+324,Microblading,"Ashley Howe"
+325,Microblading,"Claudia Cruz"
+326,Microblading,Julie
+327,Microblading,Friend
+328,Microblading,Facebook
+329,Microblading,"Veronica Obeid"
+330,Microblading,"Boozin Babes"
+331,Microblading,Friend
+332,Microblading,"Taylor Leduff"
+333,"Combo Brows",Instagram
+334,Microblading,"Temecula Talk"
+335,Microblading,Friend
+336,Microblading,"Temecula Talk"
+337,"Combo Brows","Word of Mouth"
+338,Microblading,"Dawn Olson"
+339,Microblading,"Taylor Leduff"
+340,Microblading,Friend
+341,Microblading,"Taylor Leduff"
