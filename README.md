@@ -3,8 +3,11 @@ creates and inserts client information from the mobile brow lounge
 microblading studio so that business insights can be pulled and used for ad targeting
 
 Mobile Brow lounge DB Project
+
 Software Project Specification
+
 Aidan Cahill
+
 2/18/2022
 
 Introduction
